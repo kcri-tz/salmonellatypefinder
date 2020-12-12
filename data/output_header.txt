@@ -1,0 +1,1 @@
+Sample	Predicted Serotype	ST	ST mismatches	ST sero prediction	SeqSero prediction	O-type	H1-type	H2-type	MLST serotype details	Flagged
